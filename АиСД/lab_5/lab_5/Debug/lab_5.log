@@ -1,0 +1,3 @@
+﻿  lab_5.1.cpp
+E:\инскейп\lab_5.1.cpp(140,15): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+  lab_5.vcxproj -> C:\Users\user\source\repos\АиСД\lab_5\Debug\lab_5.exe

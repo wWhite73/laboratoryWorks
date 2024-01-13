@@ -1,0 +1,12 @@
+﻿  lab 4.cpp
+C:\Users\user\source\repos\АиСД\lab 4\lab 4\lab 4.cpp(76,32): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\source\repos\АиСД\lab 4\lab 4\lab 4.cpp(142,28): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  lab 4.vcxproj -> C:\Users\user\source\repos\АиСД\lab 4\Debug\lab 4.exe

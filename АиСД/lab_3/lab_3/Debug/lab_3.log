@@ -1,0 +1,4 @@
+﻿  lab_3.cpp
+C:\Users\user\source\repos\АиСД\lab_3\lab_3\lab_3.cpp(48,8): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\user\source\repos\АиСД\lab_3\lab_3\lab_3.cpp(48,54): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  lab_3.vcxproj -> C:\Users\user\source\repos\АиСД\lab_3\Debug\lab_3.exe

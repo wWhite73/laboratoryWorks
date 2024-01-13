@@ -1,0 +1,9 @@
+﻿  lab_6.cpp
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(5,10): error C2601: selectionSort: недопустимые локальные определения функций
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(4): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(22,10): error C2653: SortAlgo: не является именем класса или пространства имен
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(22,20): error C2601: bubbleSort: недопустимые локальные определения функций
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(4): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(35,10): error C2653: SortAlgo: не является именем класса или пространства имен
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(35,20): error C2601: insertionSort: недопустимые локальные определения функций
+C:\Users\user\source\repos\АиСД\lab_6\lab_6\lab_6.cpp(4): message : эта строка содержит скобку "{", которая пока не имеет парной
