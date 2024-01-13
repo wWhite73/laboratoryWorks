@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\КПО\lab1\lab1\</FILEPATH>
+      <FILENAME>lab1.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26497</DEFECTCODE>
+    <DESCRIPTION>Вы можете создать constexpr "factorial", если он не содержит неопределенное поведение (f.4).</DESCRIPTION>
+    <FUNCTION>factorial</FUNCTION>
+    <DECORATED>?factorial@@YAHH@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\КПО\lab1\lab1\</FILEPATH>
+      <FILENAME>lab1.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Функция "factorial" может быть объявлена как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>factorial</FUNCTION>
+    <DECORATED>?factorial@@YAHH@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\source\repos\КПО\lab1\lab1\</FILEPATH>
+      <FILENAME>lab1.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Функция "sinys::sinys" может быть объявлена как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>sinys::{ctor}</FUNCTION>
+    <DECORATED>??0sinys@@QAE@OH@Z</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
